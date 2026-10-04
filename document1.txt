@@ -1,0 +1,5 @@
+Data structures are important concepts in computer science. They provide efficient ways to organize and store data in computer memory. Different data structures are suitable for different types of problems. Arrays, linked lists, stacks, queues, trees, and graphs are commonly used data structures.
+
+Algorithms are step by step procedures used to solve computational problems. Searching and sorting are common operations performed on data. Efficient algorithms can reduce the time required to process large amounts of information.
+
+Choosing a suitable data structure and algorithm can improve the performance of a program. Therefore, understanding data structures and algorithms is essential for developing efficient software applications.

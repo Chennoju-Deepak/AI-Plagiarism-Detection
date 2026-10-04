@@ -1,0 +1,5 @@
+Computer science uses data structures to organize information effectively. They provide different methods for storing and managing data in memory. Arrays, linked lists, stacks, queues, trees, and graphs are examples of commonly used structures.
+
+An algorithm describes a sequence of steps for solving a particular problem. Searching and sorting are frequently performed when working with data. Efficient algorithms help programs process large quantities of information in less time.
+
+The selection of an appropriate data structure together with an efficient algorithm can improve program performance. Learning data structures and algorithms is therefore important for building effective software systems.
